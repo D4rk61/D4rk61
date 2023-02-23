@@ -12,7 +12,7 @@ Geo. Ciudad de Guatemala
 
 <br>
 
-<h3 align="center">Programacion en Automatizacion y Operador de IA</h3>
+<h3 align="center">Sysadmin Junior y Operador de IA</h3>
 Soy un estudiante en computacion, amante de la nueva tecnologia y autodidacta, actualmente estoy aprendiendo a manejar las IA's para automatizar trabajos, programador jr y asesor de prevencion de ciberdelitos (ciberseguridad), aspirante a estudiar la carrera de **ingenieria en telecomunicaciones**
 <br>
 
