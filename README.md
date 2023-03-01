@@ -56,6 +56,7 @@ Soy un estudiante en computacion, amante de la nueva tecnologia y autodidacta, a
 * Cybersecurity Essentials (CISCO)
 * Ciberseguridad en el Trababajo (Google)
 * Ethical Hacker, Red Team (Hacker Mentor)
+* Python Essentials 1 (CISCO)
 * Ingles B1 
 * Seguridad Informatica basica para empresas (Platzi)
 * Obtencion de Beca por 1 año en platzi 
