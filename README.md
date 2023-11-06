@@ -1,77 +1,44 @@
-<h1 align="center">Jose Reynoso Valiente</h1>
+Hi 👋 My name is Jose Reynoso
+=============================
 
-<br>
+Backend dev. and admin. linux, Certified By Oracle
+--------------------------------------------------
 
-- 📫 Contactame
+Hello, I am a young programmer with a year and a half of experience in the development world, I am passionate and love the whole world of servers, backend development, currently learning and specializing/obtaining a master's degree in Spring Framework, AWS with docker and Oracle databases.
 
-Emali: **reynosojose2005@gmail.com** 
+* 🌍  I'm based in Guatemala
+* ✉️  You can contact me at [reynosojose2005@gmail.com](mailto:reynosojose2005@gmail.com)
+* 🧠  I'm learning Specializing in AWS, docker, spring framework, linux servers
+* 🤝  I'm open to collaborating on backend or server projects, where you don't have to use frontend or use css hahaha
 
-Num. +502 5932 1536
+<a href="https://www.github.com/D4rk61" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/D4rk61?logo=github&style=for-the-badge&color=6366f1&labelColor=000000" /></a>
 
-Geo. Ciudad de Guatemala
+### Skills
 
-<br>
-
-<h3 align="center">Sysadmin Junior y Operador de IA</h3>
-Soy un estudiante en computacion, amante de la nueva tecnologia y autodidacta, actualmente estoy aprendiendo a manejar las IA's para automatizar trabajos, programador jr y asesor de prevencion de ciberdelitos (ciberseguridad), aspirante a estudiar la carrera de **ingenieria en telecomunicaciones**
-<br>
-
----
-
-
-<br>
-
-- 🔭 Proyectos en Proceso >> **Sharktool, pentest (WIFI), PyChatGPT, Uso de la API de ChatGPT para proyectos personales**
-
-- 🌱 Actualmente aprendiento >> **Javascript para desarrollo fullstack, git y github, IA / bash scripting y python para automatizacion de trabajos, ciberseguridad personal (prevencion de riesgos), soporte tecnico (hardware de computadoras)**
-
-- 📝 Blog Personal (Temas de Seguridad Informatica) [https://personal-userdark.blogspot.com/](https://personal-userdark.blogspot.com/)
-
-- 💬 Preguntame sobre >> **Sistemas Linux, uso de IA's para tu estudio o trabajo, fundamentos en programacion, ¿Como comenzar en la programcion? y proteccion en empresas o ciberseguridad personal**
-
-
-
-- ⚡ Sobre mi >> **Pienso que trabajo mejor solitariamente, alguien que nunca para de mejorar dia a dia, aprendiendo el ingles y que por el momento solo esta empezando!**
-
-<br>
 
 <p align="left">
-</p>
-
-<h3 align="left">Languajes y herramientas que domino!</h3>
-
-<br>
-
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<br>
-
-<h3 align="center">Logros y Certificaciones</h3>
-
----
-
-<br>
-
-* Intro to Cybersecurity (CISCO)
-* Cybersecurity Essentials (CISCO)
-* Ciberseguridad en el Trababajo (Google)
-* Ethical Hacker, Red Team (Hacker Mentor)
-* Python Essentials 1 (CISCO)
-* Ingles B1 
-* Seguridad Informatica basica para empresas (Platzi)
-* Obtencion de Beca por 1 año en platzi 
-* Participacion y obtencion del primer lugar a nivel bachiller en concurso de arduino a nivel nacional (Tecnikids)
-* Introduccion al backend (Platzi)
-* Introduccion a Sistemas Linux (Backtrack Academy)
-* Fundamentos en Seguridad Informatica (Bactrack Academy)
-* Fundamentos en javascript para fullstack
-* Asesoramiento tecnico (reparacion y mantenimiento de pc's)
-
-<br>
-<br> 
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d4rk61&show_icons=true&theme=dark&locale=en&layout=compact" alt="d4rk61" /></p>
+### Socials
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d4rk61&show_icons=true&theme=dark&locale=en" alt="d4rk61" /></p>
+<p align="left"> <a href="https://www.github.com/D4rk61" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
+
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/D4rk61"><img src="https://github-readme-stats.vercel.app/api?username=D4rk61&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="D4rk61's GitHub stats" /></a>
+
+<a href="http://www.github.com/D4rk61"><img src="https://github-readme-streak-stats.herokuapp.com/?user=D4rk61&stroke=ffffff&background=000000&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/D4rk61/Admin-Oracle" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=D4rk61&repo=Admin-Oracle&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/D4rk61/tor_router" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=D4rk61&repo=tor_router&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/D4rk61/FullStack-ReactSpring" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=D4rk61&repo=FullStack-ReactSpring&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a></div>
